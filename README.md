@@ -1,2 +1,3 @@
 # Python-practical-9
-Python Practical 9 - A program that generates a multiplication table of a given number.
+Python Practical 9 
+Checks if the given string is a palindrome or not.
